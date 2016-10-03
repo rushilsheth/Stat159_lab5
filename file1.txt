@@ -2,4 +2,13 @@ first file
 
 This is User A added texts after pulling the new file3.txt
 
+<<<<<<< HEAD
+
+User A is modifiying file1 while on the master branch
+
+
+
+UserA modifying while on branch task4A
+=======
 User B: after creating branch
+>>>>>>> fd42acd7374b76558abfd315323bdb5cc4126ca6
