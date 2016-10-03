@@ -14,4 +14,9 @@ User B: after creating branch
 >>>>>>> fd42acd7374b76558abfd315323bdb5cc4126ca6
 
 
+<<<<<<< HEAD
 UserA is on the new branch task5A and is modifying file1, will there be an error?
+=======
+
+User B: changes while on task5B
+>>>>>>> 2923bd4373c7cc5f78620ab3d278d39a9aea5f4f
