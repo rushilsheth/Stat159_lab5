@@ -1,1 +1,3 @@
 first file
+
+This is User A added texts after pulling the new file3.txt
