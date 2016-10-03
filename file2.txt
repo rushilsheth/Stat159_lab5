@@ -1,5 +1,7 @@
 second file
 
+User A does not know why this stuff is now written underneath
+
 
 <<<<<<< HEAD
 User A modifying the files. 
