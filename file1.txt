@@ -4,3 +4,7 @@ This is User A added texts after pulling the new file3.txt
 
 
 User A is modifiying file1 while on the master branch
+
+
+
+UserA modifying while on branch task4A
